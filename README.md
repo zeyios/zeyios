@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-💻 I'm a Front-End Developer currently in a work gap and **Open for Hiring**.  
+💻 I'm a Front-End Developer currently **Open for Hiring**.  
 
 🐾 I have a strong background in the tech industry, having worked at Tencent for 4 years and ByteDance for 2 years. 
 
