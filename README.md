@@ -2,13 +2,7 @@
 
 Hi there 👋
 
-💻 I'm a Front-End Developer currently **Open for Hiring**.  
-
-🐾 I have a strong background in the tech industry, having worked at Tencent for 4 years and ByteDance for 2 years. 
-
-🐾 During my time at Tencent, I started as an Android Developer and later transitioned to focusing on React Native. This allowed me to gain valuable experience and ultimately become a Front-End Developer. 
-
-🐾 At ByteDance, I had the opportunity to work on Lark, specifically developing Lark Docs (aka Feishu Docs) which is an online collaboration tool similar to Google Docs.
+💻 I'm a Frontend Developer and trying to be a Fullstack Developer.
 
 ### Skills
 
