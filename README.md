@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-💻 I'm a Frontend Developer and trying to be a Fullstack Developer.
+💻 I'm a Fullstack Developer.
 
 ### Skills
 
