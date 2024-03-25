@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-💻 I'm a Fullstack Developer.
+💻 I'm a Fullstack Developer. Worked at Tencent & ByteDance
 
 ### Skills
 
